@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#291B18</color>
+    <color name="colorPrimaryDark">#291B18</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="background">#E9DDE4</color>
+    <color name="safe">#0aa149</color>
+    <color name="not_safe">#EF5350</color>
+    <color name="trans_safe">#500aa149</color>
+    <color name="trans_not_safe">#50EF5350</color>
+</resources>
